@@ -1,4 +1,4 @@
-# speedmotor
+# speedometer
 
 A new Flutter project.
 
